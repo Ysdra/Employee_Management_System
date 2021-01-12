@@ -1,0 +1,18 @@
+{
+  "name": "employee_management_system",
+  "version": "1.0.0",
+  "description": "A node.js app that allows a user to access their employee MySQL database without opening MySQL. ",
+  "main": "management.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ysdra",
+  "license": "ISC"
+}
