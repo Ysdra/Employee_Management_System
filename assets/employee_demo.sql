@@ -39,7 +39,7 @@ VALUES ("Operations")
 , ("Engineering");
 
 INSERT INTO role (title, salary, department_id)
-VALUES ("CEO", 250000, 1)
+VALUES ("CEO", 5500000, 1)
 , ("COO", 3000000, 1) 
 , ("CIO", 2000000, 5) 
 , ("CFO", 2000000, 3)
