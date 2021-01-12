@@ -4,7 +4,7 @@ A node.js application that parses a MySQL database in order to dynamically displ
 ## Video Demo: https://drive.google.com/file/d/1_XgLT8N4aL4mq2kGYOR5iNu44w-eSWAg/view
 
 ## README Demo: 
-[!Employee_Management_Demo](https://github.com/Ysdra/Employee_Management_System/blob/main/assets/Employee_Management_Demo.gif)
+[!Employee Management Demo](https://github.com/Ysdra/Employee_Management_System/blob/main/assets/Employee_Management_Demo.gif)
 
 ## App Description:
 This is a node.js application that allows users to change and edit employees' information without having to know MySQL commands in order to do so. 
