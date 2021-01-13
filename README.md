@@ -13,7 +13,7 @@ This is a node.js application that allows users to change and edit employees' in
 This node.js app relies on 3 key node packages: inquirer, mySQL, and console.table. With these 3 packages combined, we are able to dynamically render a table displaying different employee information in our git bash terminal to allow users to input changes to a MySQL database without having to open MySQL Workbench to make changes. 
 
 
-## App Description & User's Guide:
+## User's Guide:
 
 ### If you are using this app locally on your own machine:
 1. Please GIT clone this repository locally to your machine
